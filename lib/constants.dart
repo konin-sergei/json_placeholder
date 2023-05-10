@@ -1,0 +1,1 @@
+const String backendServer = 'https://jsonplaceholder.typicode.com';
